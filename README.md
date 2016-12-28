@@ -1,14 +1,14 @@
-# MMM-googlemaps
+# MMM-googlemap
 a module for the magic mirror to draw a google map between two locations
 
 ## install
-copy the /googlemaps folder into your modules. if you put it in a subfolder remember to double check the module path in the config section.
+copy the /googlemap folder into your modules. if you put it in a subfolder remember to double check the module path in the config section.
 
 ## config
 
  ```
  {
-    module: 'googlemaps',
+    module: 'googlemap',
     position: 'position',
     config: {
         apikey: 'your_api_key',
